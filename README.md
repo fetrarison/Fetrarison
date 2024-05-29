@@ -1,6 +1,6 @@
-# 🌟 Eric Fetrarison
+# 🌟 FETRARISON Eric
 
-Bonjour ! Je suis **Eric Fetrarison**, un développeur passionné et étudiant universitaire, explorant avec enthousiasme les domaines de la technologie et du développement logiciel. À 21 ans, j'aime relever des défis et je cherche constamment des opportunités pour améliorer mes compétences et mes connaissances dans le domaine.
+Bonjour ! Je suis **FETRARISON Eric**, un développeur passionné et étudiant à la **HAUTE ECOLE D'INFORMATIQUE (HEI) à Ivandry**, explorant avec enthousiasme les domaines de la technologie et du développement logiciel. À 21 ans, j'aime relever des défis et je cherche constamment des opportunités pour améliorer mes compétences et mes connaissances dans le domaine.
 
 ## 🚀 Ce que je fais
 En tant que développeur, j'aime créer des solutions efficaces et innovantes pour des problèmes concrets. Mon parcours dans le monde de la programmation a été exaltant, et je suis particulièrement attiré par :
@@ -27,9 +27,9 @@ N'hésitez pas à me contacter. Embarquons ensemble dans cette aventure passionn
 ---
 
 🔗 **Retrouvez-moi sur :**
-- [GitHub](https://github.com/Fetrarison)
+- [GitHub](https://github.com/fetrarison)
 - [LinkedIn](https://www.linkedin.com/in/Fetrarison Eric)
-
+- [Facebook](https://facebook.com/Fetrarison Eric)
 
 ---
 
@@ -42,5 +42,9 @@ N'hésitez pas à me contacter. Embarquons ensemble dans cette aventure passionn
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
 
 ---
+
+
