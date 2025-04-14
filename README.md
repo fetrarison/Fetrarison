@@ -1,11 +1,10 @@
 # 🌟 FETRARISON Eric
 
-Bonjour ! Je suis **FETRARISON Eric**, un développeur passionné et étudiant à la **HAUTE ECOLE D'INFORMATIQUE (HEI) à Ivandry**, explorant avec enthousiasme les domaines de la technologie et du développement logiciel. À 21 ans, j'aime relever des défis et je cherche constamment des opportunités pour améliorer mes compétences et mes connaissances dans le domaine.
+Bonjour ! Je suis **FETRARISON Eric**, un développeur passionné et étudiant à la **HAUTE ECOLE D'INFORMATIQUE (HEI) à Ivandry**, explorant avec enthousiasme les domaines de la technologie et du développement logiciel. À 22 ans, j'aime relever des défis et je cherche constamment des opportunités pour améliorer mes compétences et mes connaissances dans le domaine.
 
 ## 🚀 Ce que je fais
 En tant que développeur, j'aime créer des solutions efficaces et innovantes pour des problèmes concrets. Mon parcours dans le monde de la programmation a été exaltant, et je suis particulièrement attiré par :
 - **Le développement web** 🌐
-- **Le développement d'applications mobiles** 📱
 - **La science des données** 📊
 
 ## 🎯 Pourquoi je suis ici
